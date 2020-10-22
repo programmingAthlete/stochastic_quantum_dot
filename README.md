@@ -1,4 +1,4 @@
-# Thermodynamic study of single-level Quantum Dots in out-or-equilibrium regimes
+# Thermodynamic study of single-level Quantum Dots in out-of-equilibrium regimes
  This prioject is an assembly of some sections of my bachelor thesis on simulation of the thermodynamic evolution of quantum doots.
 
  Three cases are treated in two regimes
