@@ -23,6 +23,6 @@ Of course this project is not perfect and has some issues. That I report here be
 * The C program is not able to recognise the type -t input by command line if compiled and executed from a Mac OS machine. Need to change the string characterising the type of energy protocol from the code. However, it works perfectly fine in Linux.
 
 ## Gillespie simulation
-The program is written in Python and becomes exponentially slower when the increasing the number of iterations while it would be nice to see if the oscillation in the occupation probability decrease with more trajectories. Using a compiled language or maybe simply coding using more python libraries we would achieve bigger numbers of iterations.
+The program is written in Python and becomes exponentially slower when increasing the number of iterations, while it would be nice to see if the oscillation in the occupation probability decrease with more trajectories. Using a compiled language, or maybe simply coding using more python libraries, we would achieve bigger numbers of iterations.
 
 I would apprichiate to have some feedback/comment and/or some advice on how to solve the issues or maybe on solutions for more general related problems.
